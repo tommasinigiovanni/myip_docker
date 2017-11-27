@@ -1,6 +1,6 @@
 web:
   image: nginx:latest
-  container_name: nginx_my-ip
+  container_name: myip_docker
   ports:
     - "8080:80"
   volumes:
