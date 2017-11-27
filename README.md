@@ -3,6 +3,7 @@
 ## dockerising a PHP app with nginx and PHP
 
 ```
+myip_docker
 ├── code
 │   └── index.php
 ├── docker-compose.yml
